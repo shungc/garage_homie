@@ -16,8 +16,8 @@
 #define DOORG_TRIG 12
 #define DOORF_DIS 5
 #define DOORF_TRIG 4
-#define DOORG_SENS 2
-#define DOORF_SENS 0
+#define DOORG_SENS 14 / pulled up
+#define DOORF_SENS 16 / pulled up
 #define DOOR_LIMIT 8E6
 #define TIME_LIMIT 1E7
 
